@@ -1,9 +1,11 @@
 # liri-node-app
 
 Description:
+
 Liri is a simple AI app. Liri takes commands from users to find concerts, getting information about a song and movie.
 
 Technologies:
+
 Node.js.
 
 
